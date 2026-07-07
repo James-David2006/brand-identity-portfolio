@@ -26,9 +26,19 @@ long-term brand recognition at a globally competitive standard.
 
 <table>
   <tr>
-    <td align="center"><img src="3d-logos/3d-logo-01.png" width="260"/><br/><b>3D Logo — 01</b></td>
-    <td align="center"><img src="3d-logos/3d-logo-02.png" width="260"/><br/><b>3D Logo — 02</b></td>
-    <td align="center"><img src="3d-logos/3d-logo-03.png" width="260"/><br/><b>3D Logo — 03</b></td>
+    <td align="center"><img src="3d-logo-01.jpg" width="200"/><br/><b>3D Logo — 01</b></td>
+    <td align="center"><img src="3d-logo-02.png" width="200"/><br/><b>3D Logo — 02</b></td>
+    <td align="center"><img src="3d-logo-03.png" width="200"/><br/><b>3D Logo — 03</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="3d-logo-04.png" width="200"/><br/><b>3D Logo — 04</b></td>
+    <td align="center"><img src="3d-logo-05.jpg" width="200"/><br/><b>3D Logo — 05</b></td>
+    <td align="center"><img src="3d-logo-06.jpg" width="200"/><br/><b>3D Logo — 06</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="3d-logo-07.jpg" width="200"/><br/><b>3D Logo — 07</b></td>
+    <td align="center"><img src="3d-logo-08.jpg" width="200"/><br/><b>3D Logo — 08</b></td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -40,9 +50,8 @@ long-term brand recognition at a globally competitive standard.
 
 <table>
   <tr>
-    <td align="center"><img src="corporate-logos/corporate-logo-01.png" width="260"/><br/><b>Corporate Logo — 01</b></td>
-    <td align="center"><img src="corporate-logos/corporate-logo-02.png" width="260"/><br/><b>Corporate Logo — 02</b></td>
-    <td align="center"><img src="corporate-logos/corporate-logo-03.png" width="260"/><br/><b>Corporate Logo — 03</b></td>
+    <td align="center"><img src="corporate-logo-02.png" width="380"/><br/><b>Corporate Logo — 02</b></td>
+    <td align="center"><img src="corporate-logo-04.jpg" width="380"/><br/><b>Corporate Logo — 04</b></td>
   </tr>
 </table>
 
@@ -54,8 +63,24 @@ long-term brand recognition at a globally competitive standard.
 
 <table>
   <tr>
-    <td align="center"><img src="brand-systems/brand-system-01.jpg" width="380"/><br/><b>Brand System — 01</b></td>
-    <td align="center"><img src="brand-systems/brand-system-02.jpg" width="380"/><br/><b>Brand System — 02</b></td>
+    <td align="center"><img src="brand-system-01.jpg" width="280"/><br/><b>Brand System — 01</b></td>
+    <td align="center"><img src="brand-system-02.jpg" width="280"/><br/><b>Brand System — 02</b></td>
+    <td align="center"><img src="brand-system-03.jpg" width="280"/><br/><b>Brand System — 03</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="brand-system-04.jpg" width="280"/><br/><b>Brand System — 04</b></td>
+    <td align="center"><img src="brand-system-05.jpg" width="280"/><br/><b>Brand System — 05</b></td>
+    <td align="center"><img src="brand-system-06.jpg" width="280"/><br/><b>Brand System — 06</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="brand-system-07.jpg" width="280"/><br/><b>Brand System — 07</b></td>
+    <td align="center"><img src="brand-system-08.jpg" width="280"/><br/><b>Brand System — 08</b></td>
+    <td align="center"><img src="brand-system-09.jpg" width="280"/><br/><b>Brand System — 09</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="brand-system-10.jpg" width="280"/><br/><b>Brand System — 10</b></td>
+    <td align="center"><img src="brand-system-11.jpg" width="280"/><br/><b>Brand System — 11</b></td>
+    <td align="center"><img src="brand-system-11.png" width="280"/><br/><b>Brand System — 11b</b></td>
   </tr>
 </table>
 
@@ -65,7 +90,6 @@ long-term brand recognition at a globally competitive standard.
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Adobe Dimensions](https://img.shields.io/badge/Adobe_Dimensions-FF0000?style=flat-square&logo=adobe&logoColor=white)
 
 ---
 
@@ -96,3 +120,4 @@ Nigeria. Adobe Certified Specialist. 40+ projects. 100% client satisfaction.
 **[Let's Talk →](mailto:jamesdavidojoajogwu@gmail.com)**
 
 </div>
+
