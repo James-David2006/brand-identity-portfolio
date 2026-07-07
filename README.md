@@ -33,7 +33,7 @@ long-term brand recognition at a globally competitive standard.
   <tr>
     <td align="center"><img src="3d-logo-04.png" width="200"/><br/><b>3D Logo — 04</b></td>
     <td align="center"><img src="3d-logo-05.jpg" width="200"/><br/><b>3D Logo — 05</b></td>
-    <td align="center"><img src="3d-logo-06.jpg" width="200"/><br/><b>3D Logo — 06</b></td>
+    <td align="center"><img src="3d-logo-06.png" width="200"/><br/><b>3D Logo — 06</b></td>
   </tr>
   <tr>
     <td align="center"><img src="3d-logo-07.jpg" width="200"/><br/><b>3D Logo — 07</b></td>
